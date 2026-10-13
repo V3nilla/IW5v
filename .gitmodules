@@ -1,0 +1,32 @@
+[submodule "deps/libtommath"]
+	path = deps/libtommath
+	url = https://github.com/libtom/libtommath.git
+	branch = develop
+[submodule "deps/libtomcrypt"]
+	path = deps/libtomcrypt
+	url = https://github.com/libtom/libtomcrypt.git
+	branch = develop
+[submodule "deps/zlib"]
+	path = deps/zlib
+	url = https://github.com/madler/zlib.git
+	branch = develop
+[submodule "deps/HDiffPatch"]
+	path = deps/HDiffPatch
+	url = https://github.com/sisong/HDiffPatch.git
+	branch = master
+[submodule "deps/GSL"]
+	path = deps/GSL
+	url = https://github.com/Microsoft/GSL.git
+[submodule "deps/rapidjson"]
+	path = deps/rapidjson
+	url = https://github.com/Tencent/rapidjson.git
+[submodule "deps/udis86"]
+	path = deps/udis86
+	url = https://github.com/vmt/udis86.git
+[submodule "deps/ChaiScript"]
+	path = deps/ChaiScript
+	url = https://github.com/ChaiScript/ChaiScript.git
+	branch = master
+[submodule "deps/zstd"]
+	path = deps/zstd
+	url = https://github.com/facebook/zstd.git
